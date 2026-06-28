@@ -202,8 +202,8 @@ NeuroVisionAI/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/rishabh-024/neurovision-ai.git
-cd neurovision-ai
+git clone https://github.com/rishabh-024/NeuroVision-AI.git
+cd NeuroVision-AI
 ```
 
 ---
